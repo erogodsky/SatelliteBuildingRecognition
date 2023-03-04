@@ -1,0 +1,10 @@
+__ignore__
+_background_
+flats
+private house
+private utility
+cultural building
+industrial building
+infrastructure
+low-rise apartment
+under construction
