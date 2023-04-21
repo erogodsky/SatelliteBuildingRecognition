@@ -527,7 +527,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "under construction",
       "points": [
         [
           233.56756756756755,
@@ -691,7 +691,7 @@
       "flags": {}
     },
     {
-      "label": "flats",
+      "label": "under construction",
       "points": [
         [
           245.45945945945948,
@@ -735,7 +735,7 @@
       "flags": {}
     },
     {
-      "label": "flats",
+      "label": "under construction",
       "points": [
         [
           176.27027027027026,
@@ -755,7 +755,7 @@
       "flags": {}
     },
     {
-      "label": "low-rise apartment",
+      "label": "infrastructure",
       "points": [
         [
           232.4864864864865,
@@ -811,7 +811,7 @@
       "flags": {}
     },
     {
-      "label": "flats",
+      "label": "infrastructure",
       "points": [
         [
           370.3243243243244,
@@ -883,7 +883,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           411.94594594594594,
@@ -916,6 +916,62 @@
         [
           426.5405405405405,
           491.13513513513516
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "flats",
+      "points": [
+        [
+          445.2,
+          504.5
+        ],
+        [
+          438.7,
+          511.0
+        ],
+        [
+          454.8,
+          511.0
+        ],
+        [
+          448.7,
+          505.0
+        ],
+        [
+          447.4,
+          505.8
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "flats",
+      "points": [
+        [
+          510.7,
+          437.0
+        ],
+        [
+          509.3,
+          449.1
+        ],
+        [
+          506.9,
+          468.3
+        ],
+        [
+          511.0,
+          471.41600000000005
+        ],
+        [
+          511.0,
+          435.7
         ]
       ],
       "group_id": null,
