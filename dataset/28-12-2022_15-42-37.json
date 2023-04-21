@@ -151,7 +151,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           294.64864864864865,
@@ -175,7 +175,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           217.35135135135135,
@@ -619,7 +619,7 @@
       "flags": {}
     },
     {
-      "label": "flats",
+      "label": "infrastructure",
       "points": [
         [
           407.4880952380952,

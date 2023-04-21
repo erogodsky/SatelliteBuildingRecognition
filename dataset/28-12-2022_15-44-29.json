@@ -819,7 +819,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           336.5225653206651,
@@ -855,7 +855,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           350.061757719715,

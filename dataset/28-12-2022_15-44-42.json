@@ -3,7 +3,7 @@
   "flags": {},
   "shapes": [
     {
-      "label": "industrial building",
+      "label": "private utility",
       "points": [
         [
           189.7,
@@ -27,7 +27,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           152.5,
@@ -55,7 +55,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "private utility",
       "points": [
         [
           210.9,
@@ -79,7 +79,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "private utility",
       "points": [
         [
           189.0,
@@ -107,7 +107,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           218.4,
@@ -195,7 +195,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           179.8004987531172,
@@ -571,7 +571,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           50.483870967741936,
@@ -835,7 +835,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           441.3105413105413,
@@ -1027,7 +1027,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           478.6,
@@ -1695,7 +1695,7 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "infrastructure",
       "points": [
         [
           316.53169734151334,
@@ -3019,51 +3019,51 @@
       "flags": {}
     },
     {
-      "label": "industrial building",
+      "label": "private utility",
       "points": [
         [
           150.23076923076923,
-          333.4038461538462
+          332.7281704781705
         ],
         [
           158.16346153846152,
-          311.04807692307696
+          310.3724012474013
         ],
         [
           165.6153846153846,
-          313.4519230769231
+          312.7762474012474
         ],
         [
           166.09615384615384,
-          316.5769230769231
+          315.9012474012474
         ],
         [
           165.85576923076923,
-          319.94230769230774
+          319.26663201663206
         ],
         [
           165.1346153846154,
-          323.54807692307696
+          322.8724012474013
         ],
         [
           162.25,
-          332.2019230769231
+          331.5262474012474
         ],
         [
           161.52884615384613,
-          338.9326923076923
+          338.25701663201664
         ],
         [
           159.60576923076923,
-          338.9326923076923
+          338.25701663201664
         ],
         [
-          159.3653846153846,
-          342.0576923076923
+          157.6,
+          342.0
         ],
         [
-          148.78846153846152,
-          338.4519230769231
+          148.2,
+          338.6
         ]
       ],
       "group_id": null,
